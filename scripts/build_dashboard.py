@@ -37,12 +37,19 @@ def merge_new_items():
     return history
 
 
+def sort_key(item):
+    # Newest first. Anything without a usable date sinks to the bottom
+    # instead of masquerading as "today".
+    raw = (item.get("release_date") or "")[:10]
+    return raw if len(raw) >= 4 else "0000"
+
+
 def row_html(item):
     meta = SOURCE_META.get(item.get("source"), {"label": item.get("source", "?"), "color": "#888"})
     title = html.escape(item.get("title") or "Untitled")
     producer = html.escape(item.get("producer") or "")
     url = html.escape(item.get("url") or "#")
-    release_date = html.escape(str(item.get("release_date") or item.get("logged_on") or ""))
+    release_date = html.escape(str(item.get("release_date") or "date unknown"))
     role = item.get("role")
     role_html = f'<span class="role">{html.escape(role)}</span>' if role else ""
     return f'''
@@ -58,7 +65,7 @@ def row_html(item):
 
 def render(history):
     DOCS_DIR.mkdir(parents=True, exist_ok=True)
-    ordered = list(reversed(history))[:MAX_HISTORY]
+    ordered = sorted(history, key=sort_key, reverse=True)[:MAX_HISTORY]
     generated = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     if ordered:
