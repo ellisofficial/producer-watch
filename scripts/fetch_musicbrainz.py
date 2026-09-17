@@ -14,7 +14,7 @@ import sys
 
 from common import DATA_DIR, get_session, load_json, load_watchlist, log, polite_sleep, save_json
 
-CONTACT = "https://ellisofficial.co.uk"  # TODO: replace with your email or site
+CONTACT = "ellis@ellisofficial.co.uk"  # TODO: replace with your email or site
 MB_BASE = "https://musicbrainz.org/ws/2"
 ARTIST_IDS_PATH = DATA_DIR / "artist_ids.json"
 SEEN_PATH = DATA_DIR / "musicbrainz_seen.json"
