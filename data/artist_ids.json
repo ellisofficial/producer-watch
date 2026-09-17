@@ -1,1 +1,38 @@
-{}
+{
+  "blake slatkin": {
+    "mb_id": "49a0caf5-d4f5-4571-b360-211990f63194",
+    "mb_name": "Blake Slatkin"
+  },
+  "dr. luke": {
+    "mb_id": "1c29b6ea-a5a5-487c-bd23-5ff7f0c80cf2",
+    "mb_name": "Dr. Luke"
+  },
+  "dwilly": {
+    "mb_id": "f9c65c80-b503-400b-9e46-9c74c8267c51",
+    "mb_name": "dwilly"
+  },
+  "margo xs": {
+    "mb_id": "0db218ac-cbf1-4ec0-ae2e-ebbb2a28fb15",
+    "mb_name": "Margo XS"
+  },
+  "max martin": {
+    "mb_id": "6622a50e-5206-44d0-9ad5-96047a726dcf",
+    "mb_name": "Max Martin"
+  },
+  "stargate": {
+    "mb_id": "509d1ba6-dcf4-4ed1-a422-157ecdffef72",
+    "mb_name": "StarGate"
+  },
+  "thom bridges": {
+    "mb_id": "f2b6330c-3d67-4655-8a4d-c591043d9112",
+    "mb_name": "Thom Bridges"
+  },
+  "tyler spry": {
+    "mb_id": "5282dd67-44ec-4a52-8518-37d381f8e25b",
+    "mb_name": "Tyler Spry"
+  },
+  "vaughn oliver": {
+    "mb_id": "82b90016-daf2-4642-b402-73cae2bbff1d",
+    "mb_name": "Vaughn Oliver"
+  }
+}
