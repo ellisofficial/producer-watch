@@ -14,7 +14,7 @@ import sys
 
 from common import DATA_DIR, get_session, load_json, load_watchlist, log, polite_sleep, save_json
 
-CONTACT = "ellis@ellisofficial.co.uk"  # TODO: replace with your email or site
+CONTACT = "https://ellisofficial.co.uk"  # TODO: replace with your email or site
 MB_BASE = "https://musicbrainz.org/ws/2"
 ARTIST_IDS_PATH = DATA_DIR / "artist_ids.json"
 SEEN_PATH = DATA_DIR / "musicbrainz_seen.json"
@@ -47,6 +47,13 @@ def resolve_mbid(session, name, cache):
 
 
 def fetch_credited_recordings(session, mbid):
+    """
+    NOTE: the artist-relationship lookup below returns a stripped-down
+    "recording" stub (just id/title) that does NOT include the release
+    date -- that field only comes back on a direct recording lookup.
+    Callers must follow up with fetch_recording_release_date() for any
+    recording they actually want to display/sort by date.
+    """
     resp = session.get(
         f"{MB_BASE}/artist/{mbid}",
         params={"inc": "recording-rels", "fmt": "json"},
@@ -64,9 +71,18 @@ def fetch_credited_recordings(session, mbid):
             "id": rec.get("id"),
             "title": rec.get("title"),
             "role": rel.get("type"),
-            "first_release_date": rec.get("first-release-date"),
         })
     return out
+
+
+def fetch_recording_release_date(session, recording_id):
+    """A direct recording lookup DOES include first-release-date."""
+    resp = session.get(
+        f"{MB_BASE}/recording/{recording_id}",
+        params={"fmt": "json"},
+    )
+    resp.raise_for_status()
+    return resp.json().get("first-release-date")
 
 
 def main():
@@ -102,12 +118,20 @@ def main():
             if rid is None or rid in seen_ids:
                 continue
             seen_ids.add(rid)
+
+            release_date = None
+            try:
+                release_date = fetch_recording_release_date(session, rid)
+                polite_sleep()
+            except Exception as e:
+                log(f"MusicBrainz: couldn't fetch release date for '{rec.get('title')}': {e}")
+
             new_items.append({
                 "source": "musicbrainz",
                 "producer": name,
                 "title": rec.get("title"),
                 "role": rec.get("role"),
-                "release_date": rec.get("first_release_date"),
+                "release_date": release_date,  # None if MusicBrainz has no date on file
                 "url": f"https://musicbrainz.org/recording/{rid}",
             })
         seen[name] = sorted(seen_ids)
