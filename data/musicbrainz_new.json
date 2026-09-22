@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "producer": "Dwilly",
+    "release_date": "2021-10-08",
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "resume",
+    "url": "https://musicbrainz.org/recording/63028ad0-860f-4a31-a89b-23a9793a1e2c"
+  },
+  {
+    "producer": "Margo XS",
+    "release_date": "2026-05-29",
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "Basketball",
+    "url": "https://musicbrainz.org/recording/d39193ff-f61a-4f35-81c7-3e200de1fe40"
+  },
+  {
+    "producer": "Margo XS",
+    "release_date": "2026-09-18",
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "Like a Cherry",
+    "url": "https://musicbrainz.org/recording/d971f871-8ca9-4788-a2e3-50f22a70c871"
+  },
+  {
+    "producer": "Margo XS",
+    "release_date": "2026-09-18",
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "Rare & Deluxe",
+    "url": "https://musicbrainz.org/recording/d41b0380-5e22-4fa2-8857-ed8d0244c9ec"
+  }
+]
