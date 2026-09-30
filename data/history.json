@@ -2,42 +2,6 @@
   {
     "logged_on": "2026-09-17",
     "producer": "Max Martin",
-    "release_date": "2026-06-04",
-    "role": "engineer",
-    "source": "musicbrainz",
-    "title": "hate that i made you love me (music video edit, extended version)",
-    "url": "https://musicbrainz.org/recording/84d24efa-d945-49cb-8115-2d2460746e7e"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": "1996-05-06",
-    "role": "engineer",
-    "source": "musicbrainz",
-    "title": "I Wanna Be With You",
-    "url": "https://musicbrainz.org/recording/5a113f48-e728-41bf-a7cc-c600e22ec167"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": "2000",
-    "role": "engineer",
-    "source": "musicbrainz",
-    "title": "Stronger (Mac Quayle Mix Show edit)",
-    "url": "https://musicbrainz.org/recording/7400e511-fd04-4589-a7fa-57d26dd5c95d"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": null,
-    "role": "engineer",
-    "source": "musicbrainz",
-    "title": "Stronger (Pablo La Rosa’s Tranceformation)",
-    "url": "https://musicbrainz.org/recording/93cb5791-7ae8-410c-972d-66bd861d3a87"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
     "release_date": null,
     "role": "mix",
     "source": "musicbrainz",
@@ -13379,5 +13343,37 @@
     "source": "press",
     "title": "BLACKPINK's Lisa Performs 'SaWaDiKa' Live for First Time at MTV VMAs - Tempo.co English",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzdtbHpYZHVUUWZ0aDNNdnpHMWVudHZzY0lZdzFybERfanpTejdKQThUR1BjeVFDcTJ4c182M0djamxIOWk1N2F5TTNkOE1UTks3b3JwaHR6UUdXaWs5MGlhZ1pDeF9RMGZpVnp2TFVwVHMyd0plbmk5WDROaWJ0NlpBbl9tMk4tLXU1c3N2ZFVSbXpOOUMteWRxbG96OWc?oc=5"
+  },
+  {
+    "logged_on": "2026-09-30",
+    "producer": "Max Martin",
+    "release_date": "Tue, 29 Sep 2026 16:44:53 GMT",
+    "source": "press",
+    "title": "Hot New Track: Taylor Swift reflects on escaping toxic relationships in her new single - theappalachianonline.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV2FKQUtXejhxU01GX0tueDVKNXpTT2VRU1pmMGN4WkxCdV9ka1JRTlpJRXo3Rkhxd1hOMkx0aUp1djZIS2VFZXpEMFV0R19oS0ZKSFA3a1FqbGo0djQ3UUFHblNxV2gtRFNqckxQMzdrY0RKOXR5bTBQNk8tVng0OWZmQnRWVFJGaFRyNzlLNmt1Y0lfRHVhUDVhdHhvcTFuQ202Mm41N2JnOTd6UVpfTTFGLW5kZGlKLXdmVQ?oc=5"
+  },
+  {
+    "logged_on": "2026-09-30",
+    "producer": "Max Martin",
+    "release_date": "Wed, 30 Sep 2026 07:58:00 GMT",
+    "source": "press",
+    "title": "How ILYA Helped Tate McRae Score Her Highest-Charting Hot 100 Debut With ‘It’s Ok I’m Ok’ - Billboard",
+    "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPYjBvR00ybXVtTjFyN3hSMVhaYzNmNlRQbTZ0RXQySWhmVlRPLTRScU90b1FRS1F2NFJ4ZHBEWng3VUtvM2tzQzhkaHhMUEE1ckZlZVpLcW56M2NucUU1eEFQVkxBYkpkQnFzOWhfMXNIYW1SQzlKSDdtLUxQcjdLRXl4RWRRSVE3Mzh4QlNsWjBHLTNDLVNDZHBMdnlYTGw2M05FMGtUd20wb0xvSjU0U3lCY2dFWXQwQ1dqUGFXdm55NDQxWlB5NVI0X0JyS0d5ckVKUVNNXzBiMHhLS3NYdnZrYzdmY1prNUIxbklPYkFVMHEyalQwT2lELTdMOGdBZEFBVWxITF81TndRWWZhcnJ6M0tPbUUzSE9vTE5NVjBoNTkxN0FpeVVvVGczSUtlLXEwMUhUQlBlM09zRXc?oc=5"
+  },
+  {
+    "logged_on": "2026-09-30",
+    "producer": "Max Martin",
+    "release_date": "Tue, 29 Sep 2026 16:30:34 GMT",
+    "source": "press",
+    "title": "Swedish House Mafia share new video for ‘Happiness Is So Sad’: Watch - DJ Mag",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTJmT25VNlRjSFI4S21ENHFPX0hsd0l2djJiWmJfMXNFTmF0ZzU4NEtjRjF3MWxKS1ZYVjNtdGNXT0FuaEZGNC1peDNENXN0bUxpdHUwUjNJOTg4LXNMb3dpVGlfNmlvWl9FRHZSY0JGNzdBeUVORS1pMElUQmdOUnRsU0pwTnR0?oc=5"
+  },
+  {
+    "logged_on": "2026-09-30",
+    "producer": "Max Martin",
+    "release_date": "Tue, 29 Sep 2026 12:04:51 GMT",
+    "source": "press",
+    "title": "Taylor Swift’s ‘Patient Zero’ music video set for YouTube release after Spotify and Apple Music window - Radio and Music",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSzFCcUJuZEhJZzFxeWFTRHoxM1FoUnhWYnRLTVlEd0pqZmZ6WGpKNGlrbW9rUUFwN1djc1FILVpwcnk5cjQtVWlPZUxESmtsXzYyNFljY0MyTVdveVpySm9la2RxZngxNzZ5VENVaE1kVllxb2gzV2p6SEdraFhrTUpHbzNLSEZHWWRrTkFFZXd6eDduQk1KbUE1VTBXTjM4bUZHNk1zZGF0cjVOdjNoMGF2VUdJemd0NDlJVzFpZVA5UGdVLXFIemNCNEVXOWUwcHR6eHY1YmRmbjkyQ0HSAd4BQVVfeXFMUEsxQnFCbmRISWcxcXlhU0R6MTNRaFJ4VmJ0S01ZRHdKamZmelhqSjRpa21va1FBcDdXY3NRSC1acHJ5OXI0LVVpT2VMREprbF82MjRZY2NDMk1Xb3lackpvZWtkcWZ4MTc2eVRDVWhNZFZZcW9oM1dqekhHa2hYa01KR28zS0hGR1lka05BRWV3eng3bkJNSm1BNVUwV04zOG1GRzZNc2RhdHI1TnYzaDBhdlVHSXpndDQ5SVcxaWVQOVBnVS1xSHpjQjRFVzllMHB0enh2NWJkZm45MkNB?oc=5"
   }
 ]
