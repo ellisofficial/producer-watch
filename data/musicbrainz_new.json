@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "producer": "Blake Slatkin",
+    "release_date": "2026-09-04",
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "Boys",
+    "url": "https://musicbrainz.org/recording/10013cf2-19a3-4a7b-bf39-72a350c03289"
+  },
+  {
+    "producer": "Blake Slatkin",
+    "release_date": "2026-09-04",
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "Fantasize",
+    "url": "https://musicbrainz.org/recording/c9c1f7c3-2ae0-4987-b299-039b2a03a9ca"
+  },
+  {
+    "producer": "Blake Slatkin",
+    "release_date": "2026-09-04",
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "Hitachi",
+    "url": "https://musicbrainz.org/recording/bef20283-14dd-4a53-bf05-05247403c813"
+  },
+  {
+    "producer": "Blake Slatkin",
+    "release_date": "2026-09-04",
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "I’m the Man",
+    "url": "https://musicbrainz.org/recording/57c734ad-1be3-4ea5-ae47-478a111e169d"
+  },
+  {
+    "producer": "Blake Slatkin",
+    "release_date": "2026-09-04",
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "Marijuana",
+    "url": "https://musicbrainz.org/recording/7d4a7d5d-5d9f-4415-a7be-4c244fa1accf"
+  },
+  {
+    "producer": "Blake Slatkin",
+    "release_date": "2026-09-04",
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "Nicole Kidman",
+    "url": "https://musicbrainz.org/recording/e57859ec-f484-42f4-978a-65e262a60c68"
+  },
+  {
+    "producer": "Blake Slatkin",
+    "release_date": "2026-09-04",
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "Starving Artist",
+    "url": "https://musicbrainz.org/recording/a563543a-2b7c-43b9-b591-d545b6425957"
+  },
+  {
+    "producer": "Blake Slatkin",
+    "release_date": "2026-09-04",
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "Therapy",
+    "url": "https://musicbrainz.org/recording/4c7f04f5-1a1e-49bb-84cd-da7f06e93817"
+  }
+]
