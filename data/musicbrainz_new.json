@@ -1,10 +1,42 @@
 [
   {
-    "producer": "Cirkut",
+    "producer": "Max Martin",
     "release_date": "2026-10-09",
     "role": "producer",
     "source": "musicbrainz",
-    "title": "FF",
-    "url": "https://musicbrainz.org/recording/13361a18-79c3-4dba-8ca9-cb47beb0d04b"
+    "title": "Patient Zero (acoustic version)",
+    "url": "https://musicbrainz.org/recording/d850f694-4a69-4b9d-9d41-d95838afa0a1"
+  },
+  {
+    "producer": "Max Martin",
+    "release_date": "2026-10-09",
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "Patient Zero (piano version)",
+    "url": "https://musicbrainz.org/recording/bb138188-7b3c-43d4-a254-973dffdc5fde"
+  },
+  {
+    "producer": "Thom Bridges",
+    "release_date": "2026-09-29",
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "Yes (ATL)",
+    "url": "https://musicbrainz.org/recording/dc905134-dea3-4e36-8aca-427f5ae213fa"
+  },
+  {
+    "producer": "Thom Bridges",
+    "release_date": "2026-10-16",
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "Yes (Dance)",
+    "url": "https://musicbrainz.org/recording/440283ee-218f-45bf-bf1f-c23aa8241bb2"
+  },
+  {
+    "producer": "Thom Bridges",
+    "release_date": "2026-10-16",
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "Yes (Unfinished Business)",
+    "url": "https://musicbrainz.org/recording/3231e1cf-83cc-4e41-a313-21ef612dd05f"
   }
 ]
