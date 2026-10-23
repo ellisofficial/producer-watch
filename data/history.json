@@ -2,159 +2,6 @@
   {
     "logged_on": "2026-09-17",
     "producer": "Max Martin",
-    "release_date": null,
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "E.T. (Benny Benassi dub)",
-    "url": "https://musicbrainz.org/recording/8b18bcac-fd7e-4d8d-a159-3602cc7886b8"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": "2011-02",
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "E.T. (Dave Aude Club)",
-    "url": "https://musicbrainz.org/recording/47b0d520-2a13-400a-a901-dadb126ac6bd"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": "2011-02",
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "E.T. (Dave Audé dub)",
-    "url": "https://musicbrainz.org/recording/e556c150-4b65-409b-bf77-55ed33df33d3"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": "2011-02",
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "E.T. (Manhattan Clique Dreamland dub)",
-    "url": "https://musicbrainz.org/recording/e8965c66-f53e-44f6-89e8-a5d48f9ef610"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": "2011-02",
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "E.T. (Manhattan Clique Paradise remix)",
-    "url": "https://musicbrainz.org/recording/46061e80-1ed1-4eb4-9799-78b43a120bf4"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": "2011-02",
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "E.T. (Noisia dub)",
-    "url": "https://musicbrainz.org/recording/5b613716-d4b4-45dd-bf91-be582c91f171"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": "2011-02",
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "E.T. (Noisia remix)",
-    "url": "https://musicbrainz.org/recording/8cf36edd-a5f8-4467-8a19-0ce579f1f6cd"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": null,
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "E.T. (Tiësto club mix)",
-    "url": "https://musicbrainz.org/recording/25c287e6-22bd-4403-af79-75b66e01f60f"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": null,
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "E.T. (Tiësto dubstrumental)",
-    "url": "https://musicbrainz.org/recording/7f0735eb-5628-4bba-8992-0c6cbf923368"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": null,
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "Eldest Daughter",
-    "url": "https://musicbrainz.org/recording/74c92180-3008-4494-a8dc-795c888c31f3"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": "2025-10-06",
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "Eldest Daughter (Now You’re Home acoustic version)",
-    "url": "https://musicbrainz.org/recording/cb0f6c84-3894-4466-bb84-00ce111701ad"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": "2025-10-03",
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "Elizabeth Taylor",
-    "url": "https://musicbrainz.org/recording/11015ff3-b374-466c-a067-5b38e38c6d7d"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": "2025-10-06",
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "Elizabeth Taylor (So Glamorous Cabaret version)",
-    "url": "https://musicbrainz.org/recording/2b89bf63-5267-4f09-9c0e-f3b39312d19a"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": null,
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "End Game",
-    "url": "https://musicbrainz.org/recording/5a2a4b4e-13c4-4122-a626-064531047ac4"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": null,
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "eternal sunshine",
-    "url": "https://musicbrainz.org/recording/ef7785a0-e30b-4768-96f5-d66e1efaf330"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": "2024-03-11",
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "eternal sunshine",
-    "url": "https://musicbrainz.org/recording/1f8d412d-7de8-4889-91e7-0e43a8ae8a86"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
-    "release_date": "2022-01-07",
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "Every Angel Is Terrifying",
-    "url": "https://musicbrainz.org/recording/ef0fde3e-9a5d-4084-b52f-5dc736e86fb3"
-  },
-  {
-    "logged_on": "2026-09-17",
-    "producer": "Max Martin",
     "release_date": "2019-11-22",
     "role": "producer",
     "source": "musicbrainz",
@@ -13255,5 +13102,141 @@
     "source": "press",
     "title": "Jason Momoa Net Worth, Salary & Highest Grossing Movies - Our Culture Mag",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZEZwcFlRTGZuQlNMelIwYjRHN0NGbHE4c1BRM1NJcHlhVU5ydVpzM2MwSDBlWWJOQnZ2OHBUYm4tM1NuSUxfZHh0dHJiNkFia2xmWUhtY3I5UFlvM3ozdDB2NUJhcUoxUUtsbFdESGJKbVpBWVpuVGtTVGsyYnRueG9hcHRFQQ?oc=5"
+  },
+  {
+    "logged_on": "2026-10-23",
+    "producer": "Max Martin",
+    "release_date": "Fri, 23 Oct 2026 08:14:50 GMT",
+    "source": "press",
+    "title": "Getting To Know... Brett Badner - Mystic Sons",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqdENpLU9zZFV1ZXlfc3Nlb1Y1R3B4QzNVbnJad3dES1JmVnYtQkM4SXJhNWVXWTFPT19qbEU2X3VzeUdwWlJ3NDA3QmltUFl3MkpCVkV0MDl4RGoxM1A1ajF2V1JKWE1SbUVV?oc=5"
+  },
+  {
+    "logged_on": "2026-10-23",
+    "producer": "Max Martin",
+    "release_date": "Thu, 22 Oct 2026 23:50:14 GMT",
+    "source": "press",
+    "title": "Hayden James Soundtracks the Summer with New Single ‘Here & Now’ - Rolling Stone Australia",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qYlV5ZUtGdHhvUEhiQUhSVUpGSjItWTdNMnZuNGVFSE9kZ3FIUHJHNGRJQTJzZElRR1pldzk5T0xHeGFDaFgyRTZjNnR4Zw?oc=5"
+  },
+  {
+    "logged_on": "2026-10-23",
+    "producer": "Max Martin",
+    "release_date": "Thu, 22 Oct 2026 07:00:00 GMT",
+    "source": "press",
+    "title": "News: New York’s Brett Badner Shares New Single ‘where did summer go?’ - Backseat Mafia",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTlfUkt2Uzdha1ljbl9oMG9SVjhHWVRUcUxORVhnOHZSejJtV2ZjT2FmejlwMy1QZ1QwSGgyNUVOMkRNMHBpRVBnZUI3S1VrM0d0c2tRdUp1T2FBMU1WcTR0Zi1Zc2Z4enpSVWtTQWNwajNGQVlLaUNsTktGZ3hNaENvTWNDQ3BuT1doeDRQakZqWXhuaTc3SXZFUEk?oc=5"
+  },
+  {
+    "logged_on": "2026-10-23",
+    "producer": "Max Martin",
+    "release_date": "Fri, 23 Oct 2026 12:15:41 GMT",
+    "source": "press",
+    "title": "Taylor Swift – Patient Zero - TrendyHipHop",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PWnFLSFRiTDlmSzlSbGdycXV6ZXJralhUd3ZhWlptZUVseTZEekt4VGtTenB0eDBsdjBHWS1EUnJZTXVVVXNDYnVQSm15MGlJc0JOc09rRnZETmU3bDYyVmpzQWlpNjdvRE96MVE3bw?oc=5"
+  },
+  {
+    "logged_on": "2026-10-23",
+    "producer": "Max Martin",
+    "release_date": "Fri, 23 Oct 2026 12:15:42 GMT",
+    "source": "press",
+    "title": "Katy Perry – The One That Got Away - TrendyHipHop",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90enNaVmFVV29uemw0NjlZRndpTjI4dXVzQ0paUzRPME9kTG1DcnB4WnZsQVpDNFBvVlNUQUJ3MVRGcGwtekhMOXA4eUpDeWJMWTdGQS1QeEI5S2w5MUZBMG1OQmtEMVdIWmxmaUFjODhEMFFpYnUzbQ?oc=5"
+  },
+  {
+    "logged_on": "2026-10-23",
+    "producer": "Dr. Luke",
+    "release_date": "Thu, 22 Oct 2026 15:36:58 GMT",
+    "source": "press",
+    "title": "5 Katy Perry controversies that rewrote pop culture history - Indulge Express",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUVRtOXlDMFlhdXpaVXN2dWZ5bVRTNl9NVkdkVGlYeFRKMXdHS2N0SlJfSURrdHpDUmt6b2JiZnA5NTJrcHBkV1B2QkNOaUtKY3FkYW9VNGhhT3pGZm5lTkN2RjY5aTR5NHJZMUxXRkt0VTJnMUlLTGlpbnJOeUtLR3FMMU92S09ua1hvd0poYWxSU2hfRGJndVVQbW5ORDJ6ZWdPRXJkbWExTGdfMUFWRnVRcGxiSkM2ZzB5OGptY9IBzAFBVV95cUxQTzkzWHc1cFBuSzdXdS1ja0RSdHdrelZSRjhvRklmeEpFd1NQRG1Od3dQVzNKV2d5ZENlUE1Mam50UVg3RWRRVUljaHI1UlMybWtJWWVSWEdhN185bXN0MUVycktGdk1NTHM5bjVZMFNXbmw4Z3lIMWtGamZWTHllNGN2S2Nsb0Z2Q3dPZF9pdWdQM0F4MzFtci1SWU94SXlsX3FnRHVlX25GNnlxeGlHZ1ZuTno2TnhGSHRtazEtdGxqMEpOWmZmbk1La3k?oc=5"
+  },
+  {
+    "logged_on": "2026-10-23",
+    "producer": "Thom Bridges",
+    "release_date": "Fri, 23 Oct 2026 04:02:27 GMT",
+    "source": "press",
+    "title": "LISA’s ‘Press Play’: All 6 Tracks Ranked - Billboard",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUk1BTzVUWFFJRXU5QThQZHNmdUdfdk5JM2pydFd4ZkFPMWJMWUEzbU1vMVRUOEFwWXBySFFubFVhMnQwTW1xaVp0allZUWhzaW9heGhtaVJZSEVUeDNOSTNleHgyNC1VMi04RWlyeUViN0RGNTFRdDFGSkhKWlMzRQ?oc=5"
+  },
+  {
+    "logged_on": "2026-10-23",
+    "producer": "Blake Slatkin",
+    "release_date": "Fri, 23 Oct 2026 10:15:13 GMT",
+    "source": "press",
+    "title": "John Mayer celebrates launch of his own record label with new single, Tom and Jerry - Guitar.com",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hTXZjVm5EZG43SDhoQ21YeE14MTJxX1dITWcxTE9fUnJ0eTN2dUlTaUpPcTdxXzZQOVpkcHBFdjA3eURaNW1aRWZEUG11S201U2VZRWZhRnRtMHc5STNqclhuNG5xMWtqZE5weg?oc=5"
+  },
+  {
+    "logged_on": "2026-10-23",
+    "producer": "Blake Slatkin",
+    "release_date": "Fri, 23 Oct 2026 12:30:46 GMT",
+    "source": "press",
+    "title": "John Mayer Recruits Dream Team of Musicians for New Song ‘Tom and Jerry’ - Rolling Stone",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeWZQdW1VYXVkLWRoenVqbDNBdGRCQmNGQWZTTkRJakNmUjRzbGFHa2g3dDYxNFNlc3VWN0k2cE8zVXR6WTNVNEY0Qi1rM2JGRHJrWUhPMGlld2NpTGJhQ3B2MjJhbUg1cGliZ25sXzV4RUEwZEtSUF9HZE53bEVwTnRnRnlMakt5VXVWNXBLSldrem5mR3hiRg?oc=5"
+  },
+  {
+    "logged_on": "2026-10-23",
+    "producer": "Blake Slatkin",
+    "release_date": "Fri, 23 Oct 2026 07:45:57 GMT",
+    "source": "press",
+    "title": "Listen: John Mayer returns with brand new single ‘Tom and Jerry’ - Entertainment Focus",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEN3QUF6U0JOVjBpWHBjd1pyNFZwWE1QR1pVRjZQbzVnbE5hc2tWVm9LWjU3WEF6TzRQVWhodldEbFhRZERyUDQwY2pCT2NuelQ3czlRVTdhbTBWM0JpSFhVTFJkd0puR05fV3NFUDJHTWhwUkp4dkl3aDlUUnA0SW95NGdoci1RMGprN2w4OFdmN3paUzNyZFhBYjFEZDhuMTFqX0NFVXI?oc=5"
+  },
+  {
+    "logged_on": "2026-10-23",
+    "producer": "Blake Slatkin",
+    "release_date": "Thu, 22 Oct 2026 23:59:50 GMT",
+    "source": "press",
+    "title": "John Mayer’s new record label has a very befitting name - - Happy Mag",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pQ2xCSUN5RnMyYnNlX1FMWWo1VGZQUkhOUjlZQUMzbzhFYUwtWjVlWmFiNUx6QV9DdDVVbzNNdmFhUjFURDBBNWZYSG5VMjh2SjFYNnk3SXZHamkxcWRqSmNmbVA2cDNEREE?oc=5"
+  },
+  {
+    "logged_on": "2026-10-23",
+    "producer": "Blake Slatkin",
+    "release_date": "Thu, 22 Oct 2026 15:13:18 GMT",
+    "source": "press",
+    "title": "New John Mayer Music is Here - Jambands",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuN1paOGFZdEp2NGp5cUxfd0g2NGNVRlA5UWhxRE1tWGxiLTRiWnY4TVJka0U3R0JhUm8ySktMNnprSlFmUS10ZUg2anBjazFKdHA1U2pkUnVVNnQ0X3B2cUtIUC1jdzlQbGdyNHZfRVdkTjRo?oc=5"
+  },
+  {
+    "logged_on": "2026-10-23",
+    "producer": "Blake Slatkin",
+    "release_date": "Thu, 22 Oct 2026 20:15:04 GMT",
+    "source": "press",
+    "title": "John Mayer Returns With First Solo Single in Five Years, \"Tom and Jerry\" - That Eric Alper",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTJGOFdtSnFjX1BOdVNuc29KZktTTzNGaU1BNUxfdE9zWUU2Sk5Ka2lQb1dOemxLVnpMelJDU1BoNHRVdFFSalVXSUZKNFFxZjFmM08zRUJtcmRRRFhJU3gySUEzaUN3Ykk0STAtVWpfSHpiUlZsbm01UFRLT295VEdUX3dsa1g3Q2lVcldaZnExSlBETm8wQ29rWW5SQmp0eFNfVjhVU3ZxbHdfemVKcg?oc=5"
+  },
+  {
+    "logged_on": "2026-10-23",
+    "producer": "Blake Slatkin",
+    "release_date": "Fri, 23 Oct 2026 04:22:44 GMT",
+    "source": "press",
+    "title": "John Mayer launches Sob Rock Records with ‘Tom and Jerry’ - The Music Universe",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRjl2bjhESXpzRVN3NGlpREt4YnVjOGxfMGxSeDVod3BPeXpiQTJKblhWU2JRbWZoU1NWc2ZCNloxYy14S0YxYmpfbXhabFd0SkdEOW5qWG51aFJUaHlHZjR4aUZTSFhocFYtMWRwSE03YjdIdlJfNWVYR0VNcnZBRXBsSTB2ODVnNk9HeHpB?oc=5"
+  },
+  {
+    "logged_on": "2026-10-23",
+    "producer": "Blake Slatkin",
+    "release_date": "Fri, 23 Oct 2026 04:25:49 GMT",
+    "source": "press",
+    "title": "'Tom & Jerry' Lyrics: John Mayer Explains Meaning Behind Title of First Solo Song In 6 Years - Just Jared",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVnplanlYR18xallZYXRjQmh0QXB5YWlmUnBzOFZjcGdXLWhfckZiT3JxREtCdnhoV1ZuS1I5Rk5XeDBPSWVCcGdaUjZZY0cwVlg4MEFhTnFqWXBQdFJjZjZvTkNYeklWdm94WDhXV2JjQTVFOGMwamNyaHNoTnl1ZFhSQjB6aVlSRElPTGZLV2gwZ2hnenZDc2tVZXdGZTB6cWQ4ZUxxMVlHSXQwWTJvYXNsV05rVjNFYnV0d2JRbEdvUTg?oc=5"
+  },
+  {
+    "logged_on": "2026-10-23",
+    "producer": "Blake Slatkin",
+    "release_date": "Thu, 22 Oct 2026 20:18:36 GMT",
+    "source": "press",
+    "title": "John Mayer Launches New Label Sob Rock Records - Rolling Stone",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRjFnOG5PbTVkWXh0cHNVb2FvOFF6OFR5ckM5RWJZX3pyb1lWVnVxYUd4bndzVUhBNWk0c2gtMlpaclE5Y3lLZ0ZVMTZiUmJsNENmS2JUWUVOMlp5LXZFakVCanVqWDhjbjRDaFVBYjYxOG51VzdlSVV6SnZDdTNwVzVsLUt5Qi1ueG1nMDJEa3plbUY4MXl4NlZjOA?oc=5"
+  },
+  {
+    "logged_on": "2026-10-23",
+    "producer": "Leroy Clampitt",
+    "release_date": "Fri, 23 Oct 2026 07:18:51 GMT",
+    "source": "press",
+    "title": "Mina Okabe Opens A New Chapter With \"It's A New Day\" - Mynewsdesk",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcmUyMm1BOGF6U3JGcTBhcDhLM3NaMmV5WFl6OHJ5alZxWGFyeGU0d1Zrbnotd3F1MEZVT24tdi13dEhzMXQ2Nmd5Y1lBMXVlblJDeHpIVUNhZ295aC0xbXlhcUtRUGdlLTBVN0pVV0h5QVpNOS1CYWRBV0N1RlRvekpCNzVNVUtQTjVlaEdKcEZMWkpKQldHSlRXU3hRYlBfb2U2c2phX1BhcGtrUlk5WUU2MjlidzFrakln?oc=5"
   }
 ]
