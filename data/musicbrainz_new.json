@@ -1,18 +1,18 @@
 [
   {
-    "producer": "Dr. Luke",
-    "release_date": "2013-01-01",
-    "role": "producer",
-    "source": "musicbrainz",
-    "title": "Fall Down",
-    "url": "https://musicbrainz.org/recording/339f566f-aab1-4c8e-9fe0-40f4b5e92974"
-  },
-  {
-    "producer": "Cirkut",
+    "producer": "Thom Bridges",
     "release_date": null,
     "role": "producer",
     "source": "musicbrainz",
-    "title": "Fall Down",
-    "url": "https://musicbrainz.org/recording/339f566f-aab1-4c8e-9fe0-40f4b5e92974"
+    "title": "LIGHTS GO OUT",
+    "url": "https://musicbrainz.org/recording/5d529f9e-0355-40cf-981a-73c1920b788b"
+  },
+  {
+    "producer": "Tyler Spry",
+    "release_date": null,
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "Coming Back to Me",
+    "url": "https://musicbrainz.org/recording/ef375bfc-6361-49ca-bd86-65111842e3af"
   }
 ]
