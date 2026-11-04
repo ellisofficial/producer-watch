@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "producer": "Tyler Spry",
+    "release_date": "2024-07-12",
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "Nobody (from Kaiju No. 8 (Acoustic))",
+    "url": "https://musicbrainz.org/recording/9c737fdd-4453-4a5a-9d10-c01f8f2e82a9"
+  },
+  {
+    "producer": "Tyler Spry",
+    "release_date": null,
+    "role": "producer",
+    "source": "musicbrainz",
+    "title": "Nobody (from Kaiju No. 8)",
+    "url": "https://musicbrainz.org/recording/ef2e292c-4eb7-4aa3-9659-51933ae736d4"
+  }
+]
